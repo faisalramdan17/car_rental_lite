@@ -179,7 +179,7 @@ class HomeView extends GetView<HomeController> {
 
   Widget buildAvailableCars() {
     return GestureDetector(
-      onTap: () => Get.toNamed(Routes.AVAILABLE_CARS),
+      onTap: () {},
       child: Padding(
         padding: EdgeInsets.only(top: 20, right: 16, left: 16),
         child: Container(
@@ -285,9 +285,7 @@ class HomeView extends GetView<HomeController> {
             scrollDirection: Axis.horizontal,
             children: controller.cars
                 .map((car) => GestureDetector(
-                    onTap: () {
-                      Get.toNamed(Routes.BOOK_CAR, arguments: car);
-                    },
+                    onTap: () {},
                     child: buildCar(car, controller.cars.indexOf(car))))
                 .toList(),
           ),
