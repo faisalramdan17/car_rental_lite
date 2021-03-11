@@ -25,11 +25,10 @@ https://codecanyon.net/item/car-rental-app-flutter-ui-kit-using-getx/31048680
 GetX : https://pub.dev/packages/get
 
 # Social Media
-Website: https://codingyourlife.id
-GitHub: https://github.com/faisalramdan17
-Instagram: https://instagram.com/faisalramdan17
-Instagram: https://instagram.com/codingyourlife.id
-LinkedIn: https://www.linkedin.com/in/faisalramdan17/
+- Website: https://codingyourlife.id
+- GitHub: https://github.com/faisalramdan17
+- Instagram: https://instagram.com/faisalramdan17 & https://instagram.com/codingyourlife.id
+- LinkedIn: https://www.linkedin.com/in/faisalramdan17/
 
 # Inspiration
 https://dribbble.com/shots/6714941-Car-rental-app
