@@ -18,7 +18,7 @@ https://codecanyon.net/item/car-rental-app-flutter-ui-kit-using-getx/31048680
 
 # Screenshot
 <p>
-    <a target="_blank" rel="noopener noreferrer" href="/X-Wei/flutter_catalog/blob/master/screenshots/Screenshot_1546722517.png"><img src="/X-Wei/flutter_catalog/raw/master/screenshots/Screenshot_1546722517.png" width="240px" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/car_rental_lite/main/assets/screenshots/home.png"><img src="https://raw.githubusercontent.com/faisalramdan17/car_rental_lite/main/assets/screenshots/home.png" style="max-width:100%;"></a>
 </p>
 
 # State Management
