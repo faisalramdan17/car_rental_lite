@@ -7,7 +7,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Video Tutorial
-YouTube: https://youtu.be/xrdqsEdLqrQ
+- YouTube (Part 1): https://youtu.be/xrdqsEdLqrQ
+- YouTube (Part 2): https://youtu.be/fvpmo7MhIkc
+
+I hope you liked it, and dont forget to like, subscribe, share this video with your friends, and star the repository on GitHub!
 # Car Rental App UI in Flutter
 Source Code (Lite) - Enjoy !
 
@@ -17,10 +20,6 @@ https://codecanyon.net/item/car-rental-app-flutter-ui-kit-using-getx/31048680
 
 # State Management
 GetX : https://pub.dev/packages/get
-
-
-
-I hope you liked it, and dont forget to like, subscribe, share this video with your friends, and star the repository on GitHub!
 
 # Social Media
 Website: https://codingyourlife.id
