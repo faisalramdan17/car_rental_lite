@@ -1,7 +1,6 @@
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
@@ -17,6 +16,10 @@ Source Code (Lite) - Enjoy !
 → Full Source Code (Pro) :
 https://codecanyon.net/item/car-rental-app-flutter-ui-kit-using-getx/31048680
 
+# Screenshot
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="/X-Wei/flutter_catalog/blob/master/screenshots/Screenshot_1546722517.png"><img src="/X-Wei/flutter_catalog/raw/master/screenshots/Screenshot_1546722517.png" width="240px" style="max-width:100%;"></a>
+</p>
 
 # State Management
 GetX : https://pub.dev/packages/get
