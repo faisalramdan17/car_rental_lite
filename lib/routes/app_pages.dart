@@ -14,7 +14,7 @@ class AppPages {
     ),
     GetPage(
       name: Routes.UPCOMING,
-      page: () => ProVersionView(),
+      page: () => ProVersionView(isBackAvailable: true),
     ),
   ];
 }
