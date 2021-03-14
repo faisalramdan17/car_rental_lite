@@ -13,7 +13,12 @@ class MainView extends GetView<MainController> {
       body: PageView(
         controller: controller.pageCotroller,
         physics: NeverScrollableScrollPhysics(),
-        children: [HomeView(), UpcomingView(), UpcomingView(), UpcomingView()],
+        children: [
+          HomeView(),
+          ProVersionView(),
+          ProVersionView(),
+          ProVersionView()
+        ],
       ),
       bottomNavigationBar: ValueBuilder<int>(
         initialValue: 0,

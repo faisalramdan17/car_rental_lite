@@ -12,5 +12,9 @@ class AppPages {
       page: () => MainView(),
       binding: MainBinding(),
     ),
+    GetPage(
+      name: Routes.UPCOMING,
+      page: () => ProVersionView(),
+    ),
   ];
 }

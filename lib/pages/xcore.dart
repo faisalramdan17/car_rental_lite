@@ -8,4 +8,4 @@ export 'home/home_controller.dart';
 export 'home/home_view.dart';
 
 // Upcoming Page
-export 'upcoming/upcoming_view.dart';
+export 'pro_version/pro_version_view.dart';
