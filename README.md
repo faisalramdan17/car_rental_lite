@@ -50,7 +50,7 @@ SUBSRIBE → https://bit.ly/3ymJhMh
 - Buy Me a Coffee → https://www.buymeacoffee.com/faisalramdan17
 - My Portfolio → https://codecanyon.net/user/codingyourlife/portfolio
 
-## About ME
+## About Me
 - Personal → https://www.instagram.com/faisalramdan17 
 - Github →https://github.com/faisalramdan17
 - LinkedIn → https://www.linkedin.com/in/faisalramdan17
