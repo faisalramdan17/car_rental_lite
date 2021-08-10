@@ -10,7 +10,12 @@ samples, guidance on mobile development, and a full API reference.
 - YouTube (Part 1)  : https://youtu.be/xrdqsEdLqrQ
 - YouTube (Part 2)  : https://youtu.be/fvpmo7MhIkc
 
+SUBSRIBE → https://bit.ly/3ymJhMh
+
 I hope you liked it, and dont forget to like, subscribe, share this video with your friends, and star the repository on GitHub!
+
+Our mission at Coding Your Life is to help purpose driven Flutter developers go full-time doing what they love and making an impact through coding. We achieve this with useful Flutter tips and clean UI design apps.
+
 # Car Rental App UI in Flutter
 Source Code (Lite) - Enjoy !
 
@@ -33,10 +38,20 @@ GetX is not bloated. It has a multitude of features that allow you to start prog
 
 GetX has a huge ecosystem, a large community, a large number of collaborators, and will be maintained as long as the Flutter exists. GetX too is capable of running with the same code on Android, iOS, Web, Mac, Linux, Windows, and on your server.
 
-# Social Media
-- Website: https://codingyourlife.id
-- GitHub: https://github.com/faisalramdan17
-- Facebook : https://www.facebook.com/codingyourlife.id
-- Instagram: https://instagram.com/faisalramdan17 & https://instagram.com/codingyourlife.id
-- LinkedIn: https://www.linkedin.com/in/faisalramdan17
+# SUPPORT ME
+Download My Apps → https://codingyourlife.gumroad.com
+Buy Me a Coffee → https://www.buymeacoffee.com/faisalramdan17
+My Portfolio → https://codecanyon.net/user/codingyourlife/portfolio
+
+# SOCIAL MEDIA
+- Personal → https://www.instagram.com/faisalramdan17 
+- Github →https://github.com/faisalramdan17
+- LinkedIn → https://www.linkedin.com/in/faisalramdan17
+
+# LEARN MORE
+- Facebook → https://www.facebook.com/codingyourlife.id
+- Instagram → https://www.instagram.com/codingyourlife.id
+- Courses → https://www.codingyourlife.id
+
+Thanks!
 
