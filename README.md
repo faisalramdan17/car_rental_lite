@@ -1,5 +1,17 @@
 ## Getting Started
 
+![GitHub stars](https://img.shields.io/github/stars/faisalramdan17/car_rental_lite?style=social)
+![GitHub forks](https://img.shields.io/github/forks/faisalramdan17/car_rental_lite?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/faisalramdan17/car_rental_lite?style=social)
+
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![platform](https://img.shields.io/badge/platform-Flutter-blue.svg)](https://flutter.dev/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/faisalramdan17/car_rental_lite)
+
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height=
+"80">](https://play.google.com/store/apps/details?id=id.codingyourlife.carrental)
+
 This project is a starting point for a Flutter application.
 
 For help getting started with Flutter, view our
