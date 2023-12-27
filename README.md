@@ -23,13 +23,13 @@ samples, guidance on mobile development, and a full API reference.
 
 Flutter Course for FREE → https://bit.ly/flutter-free-course
 
-→ Source Code - Rental Car App : 
+→ Final Source Code - Rental Car App : 
 https://codingyourlife.gumroad.com/l/flutter-cental-car-app
 
-→ Source Code - EnLive App : 
+→ Final Source Code - EnLive E-Learning App : 
 https://codingyourlife.gumroad.com/l/english-course-app
 
-→ Source Code - Workout App : 
+→ Final Source Code - Workout App : 
 https://codingyourlife.gumroad.com/l/flutter-aqua-workout-app
 
 PLAYLISTS:
